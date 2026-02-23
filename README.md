@@ -34,12 +34,14 @@
 
 ## 📸 畫面預覽 (Screenshots)
 
+## 📸 畫面預覽 (Screenshots)
+
 <p align="center">
   <img src="screenshots/home.png" width="600" alt="首頁截圖"><br>
   <em>沉浸式動態首頁</em><br><br>
   <img src="screenshots/products.png" width="600" alt="商品圖截圖"><br>
   <em>資料庫動態產出的商品列表</em><br><br>
-  <img src="screenshots/cart.png" width="600" alt="購物車截圖"><br>
+  <img src="screenshots/car.png" width="600" alt="購物車截圖"><br>
   <em>Session 管理的購物車系統</em><br><br>
   <img src="screenshots/comments.png" width="600" alt="評論區截圖"><br>
   <em>支援圖片上傳的互動評論區</em>
