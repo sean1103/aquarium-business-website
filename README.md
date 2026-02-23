@@ -36,6 +36,8 @@
 
 ## 📸 畫面預覽 (Screenshots)
 
+## 📸 畫面預覽 (Screenshots)
+
 <p align="center">
   <img src="screenshots/home.png" width="600" alt="首頁截圖"><br>
   <em>沉浸式動態首頁</em><br><br>
